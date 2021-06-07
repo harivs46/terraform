@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-west-2"
-  access_key = "AKIAQNROPEAFQVVNXN5T"
-
+  access_key = "AKIAQNROPEAF4A3VWMU3"
+  secret_key = "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"
 }
 
 provider "azurerm" {
